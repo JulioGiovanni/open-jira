@@ -33,3 +33,9 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+
+# Docker Mongo
+mongo/
+
+# dotenv
+.env
